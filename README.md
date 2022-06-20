@@ -11,4 +11,3 @@ Nesta atividade, vamos criar uma página que carrega fotos aleatórias de gatinh
 
 ## Demo
 
-`https://fernandognu.github.io/Js-assincrono/`
